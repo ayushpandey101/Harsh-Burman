@@ -1,4 +1,4 @@
-[![20230523-132721.jpg](https://i.postimg.cc/4dyB4kDw/20230523-132721.jpg)](https://postimg.cc/JDwbKg4B)
+
 <h1 align="center">Hi 👋, I'm Harsh Burman</h1>
 <h3 align="center">Code As Codegeass</h3>
 
@@ -10,12 +10,12 @@
 
 A passionate Full Stack Developer focused on building efficient and user-centric web applications.
 
-- 💻 **Core Stack:** Python, Java, MySql, MERN
+- 💻 **Core Stack:** Python, Java, MERN
 - 🎨 **Design:** UI/UX Prototyping with Figma, Canva
-- 🌱 **Exploring:** Rust & Scalable Architectures
+- 🌱 **Exploring:** MERN Stack
 - 🤝 **Open to:** Collaborating on innovative, end-to-end projects.
-- 📫 **Contact me:** sjas.ayushpandey101@gmail.com
-- ⚡ **Motto:** Push Past Your Limit
+- 📫 **Contact me:** 
+- ⚡ **Motto:** Never Give Up
 </div>
 
 
@@ -87,9 +87,9 @@ A passionate Full Stack Developer focused on building efficient and user-centric
 <h2 align="center">👻 Contribution Graph 👻</h2>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harsh-Burman/Harsh-Burman/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harsh-Burman/Harsh-Burman/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Harsh-Burman/Harsh-Burman/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harsh-Burman/Harsh-Burman/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harsh-Burman/Harsh-Burman/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Harsh-Burman/Harsh-Burman/output/github-snake.svg" />
 </picture>
 
 ---
