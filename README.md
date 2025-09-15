@@ -1,12 +1,11 @@
-
+[![Harsh-Burman-git-banner.png](https://i.postimg.cc/9F9FC4H8/Harsh-Burman-git-banner.png)](https://postimg.cc/0b8qCyQD)
 <h1 align="center">Hi 👋, I'm Harsh Burman</h1>
-<h3 align="center">Code As Codegeass</h3>
+<h3 align="center"></h3>
 
 <br/>
 <div>
 <p align="center">
-  <img align="right" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-</p>
+  <img align="right" alt="Coding" width="250" src="https://media.tenor.com/-qbSsW3ShogAAAAm/pizza-ninjas-pizza-pets.webp">
 
 A passionate Full Stack Developer focused on building efficient and user-centric web applications.
 
@@ -16,6 +15,9 @@ A passionate Full Stack Developer focused on building efficient and user-centric
 - 🤝 **Open to:** Collaborating on innovative, end-to-end projects.
 - 📫 **Contact me:** 
 - ⚡ **Motto:** Never Give Up
+
+</p>
+
 </div>
 
 
